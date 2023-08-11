@@ -16,8 +16,9 @@
           </ul>
           </td>
 </table>
----
-- ### Dependecies
+
+
+- ### *Dependecies*
 ```ruby
 git clone https://github.com/agkozak/zsh-z.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-z
 git clone https://github.com/zsh-users/zsh-autosuggestions.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-suggestions
