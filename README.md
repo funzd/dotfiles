@@ -22,5 +22,6 @@
 git clone git@github.com:funzd/nvim.git ~/.config/nvim
 git clone git@github.com:funzd/dotfiles.git
 sudo cp dotfiles/zshrc/.zshrc ~/.zshrc && sudo rm -r dotfiles
+chsh -s $(which zsh) && sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 nvim
 ```
