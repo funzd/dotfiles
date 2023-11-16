@@ -80,7 +80,7 @@ ZSH_THEME="jbergantine"
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
 
-plugins=(git zsh-z zsh-autosuggestions zsh-syntax-highlighting zsh-completions)
+plugins=(git zsh-z zsh-autosuggestions web-search zsh-syntax-highlighting zsh-completions)
 autoload -U compinit && compinit
 
 source $ZSH/oh-my-zsh.sh
