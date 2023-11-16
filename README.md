@@ -1,4 +1,4 @@
-                                                                                                                                                                                            # dotfiles ![funzd's configurations](https://img.shields.io/badge/funzd's%20configuration-025E8C?style=for-the-badge&logo=dev.to&logoColor=white)
+# dotfiles ![funzd's configurations](https://img.shields.io/badge/funzd's%20configuration-025E8C?style=for-the-badge&logo=dev.to&logoColor=white)
 
 
 
